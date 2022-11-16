@@ -1,6 +1,6 @@
-# Explorando Padrões de Projetos na Prática com Java
+# Explorando Padrões de Projetos com Spring Boot
 
-Repositório com as implementações dos padrões de projeto explorados no Lab "Explorando Padrões de Projetos na Prática com Java". Especificamente, este projeto explorou alguns padrões usando o Spring Framework, são eles:
+Repositório com finalidade de simular um 
 - Singleton
 - Strategy/Repository
 - Facade
